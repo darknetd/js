@@ -36,7 +36,7 @@ var str = prompt ('Введите свое имя ')
 console.log(( 'Меня зовут ' + str));
 
 var str = +prompt('Введите свое год рождения')
-// var str2 = +prompt('введите н год')
+
 console.log(2023 - str);
 
 var str = prompt('Решите пример  12+ 8 = ?')
